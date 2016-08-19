@@ -1,0 +1,12 @@
+= Presentation Content
+
+ * Introductions and Agenda: link:presentations/Agenda.pptx[_Agenda_] 
+ * Session 1: link:presentations/Session_1_CN_Design_Microservices.pptx[_Cloud Native Design & Microservices_] 
+ * Session 2: link:presentations/Session_2_Intro_Boot.pptx[_Introducing Spring Boot_]
+ * Session 3: link:presentations/Session_3_Polyglot_Persist.pptx[_Polyglot Persistence with Spring Data REST_]
+ * Session 4: link:presentations/Session_4_Advanced_Boot.pptx[_Advancing Spring Boot with Actuator and Profiles_]
+ * Session 5: link:presentations/Session_5_Intro_CF_Services.pptx[_Intro to Pivotal Cloud Foundry and Services_]
+ * Session 7: link:presentations/Session_7_Intro_SC.pptx[_Introducing Spring Cloud Netflix_]
+ * Session 8: link:presentations/Session_8_SC_Config.pptx[_Spring Cloud Config_]
+ * Session 9: link:presentations/Session_9_SC_Discovery.pptx[_Spring Cloud Netflix - Service Discovery_]
+ * Session 10: link:presentations/Session_10_Circuit_Breaker.pptx[_Spring Cloud Netflix - Circuit Breakers_]
