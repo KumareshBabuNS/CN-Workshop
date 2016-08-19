@@ -6,8 +6,7 @@ This two day hands-on classroom style session will provide developers with hands
 == Schedule Day 1
 
 9:00 AM - 9:15 AM::
- * Welcome and Agenda
- * * Introductions and Agenda: link:presentations/Agenda.pptx[_Agenda_] 
+ * Introductions and Agenda: link:presentations/Agenda.pptx[_Agenda_] 
 9:15 AM - 9:45 AM::
  * Session 1: link:presentations/Session_1_CN_Design_Microservices.pptx[_Cloud Native Design & Microservices_] 
 9:45 AM - 10:30 AM::
