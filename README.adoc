@@ -1,4 +1,4 @@
-= Pivotal Cloud Native Applications Workshop
+= Pivotal Cloud Native Workshop
 == Overview
 [.lead]
 This two day hands-on classroom style session will provide developers with hands on experience building cloud native applications using micro service architectures, Spring Boot, and Spring Cloud Services, Spring Sleuth, Spring Security and the use of Pivotal Cloud Foundry Platform. The sessions includes presentations, demos and hands on labs.
