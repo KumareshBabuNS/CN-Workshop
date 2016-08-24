@@ -43,3 +43,23 @@ This two day hands-on classroom style session will provide developers with hands
 4:30 PM:: Wrap-up & Q&A
 
 == Schedule Day 2
+
+9:00 AM - 9:15 AM::
+ * Summary of Day 1
+9:15 AM - 10:15 AM::
+ * Session 11: link:presentations/Session_11_SCS_CF.pptx[_Spring Cloud Services - Running Microservices in Cloud Foundry_]
+ * Lab 9: link:labs/lab09/lab09.adoc[Spring Cloud Services in Cloud Foundry]
+10:15 AM - 11:00 AM::
+ * Session 12: link:presentations/Session_12_Sleuth_Zipkin.pptx[_Spring Cloud - Sleuth & Zipkin for tracing with microservices._]
+ * Lab 10: link:labs/lab10/lab10.adoc[Microservice Distributed Tracing]
+11:00 AM - 11:15 AM:: Break
+11:15 AM - 12:00 PM::
+ * Session 13: link:presentations/Session_13_SSO.pptx[_Spring Security integration with SSO and OAuth_]
+ * Lab 11: link:labs/lab11/lab11.adoc[Microservice Security]
+12:00 PM - 12:45 PM::
+ * Session 14: link:presentations/Session_14_SCDF.pptx[_Spring Cloud Data Flow_]
+ * Lab 12: link:labs/lab12/lab12.adoc[Data Microservices]
+12:45 PM - 1:45 PM:: Lunch
+1:45 PM - 3:45 PM::
+ * Session 15: Use Case open discussion for re-architecting with microservices
+3:45 PM:: Wrap-up & Q&A
